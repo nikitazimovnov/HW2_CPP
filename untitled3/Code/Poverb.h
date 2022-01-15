@@ -3,7 +3,7 @@
 
 #include <fstream>
 
-# include "Random.h"
+#include "Random.h"
 #include "Phrase.h"
 
 using namespace std;
